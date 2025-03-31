@@ -1,6 +1,6 @@
 package com.example.springboot_lombok_api.service;
 
-import com.example.springboot_lombok_api.exception.GlobalExceptionHandler;
+
 import com.example.springboot_lombok_api.model.Product;
 import org.springframework.stereotype.Service;
 
